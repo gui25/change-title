@@ -33,6 +33,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 
@@ -48,8 +49,14 @@ h1{
 }
 
 .Input-Title{
+  display: flex;
+  align-self: center;
   background-color: #9c31f338;
-  width: 40em;
+  width: 60%;
+}
+
+form{
+  width: 100% !important;
 }
 
 
