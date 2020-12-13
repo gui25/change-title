@@ -21,7 +21,7 @@
 }
 
   
-.App-header {
+html, .App-header {
   background-image: url(./wallpaper.jpg);
   background-color: #1c0f55;
   min-height: 100vh;
