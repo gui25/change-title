@@ -1,7 +1,7 @@
 # Change the Title
 
 
-[change-title](https://change-title.herokuapp.com) 
+Click here to open a demo: [change-title](https://change-title.herokuapp.com) 
 
 ## Available Scripts
 
